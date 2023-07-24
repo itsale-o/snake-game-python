@@ -18,25 +18,25 @@ Snake, the game that was popularized in 1998, has countless versions, but I deci
 
 <div align="center">
 
-![](menu_screen.png)
+![](images/menu_screen.png)
 
 </div>
 
 <div align="center">
 
-![](/game_screen.png)
+![](images/game_screen.png)
 
 </div>
 
 <div align="center">
 
-![](pause_menu.png)
+![](images/pause_menu.png)
 
 </div>
 
 <div align="center">
 
-![](game_over_screen.png)
+![](images/game_over_screen.png)
 
 </div>
 
